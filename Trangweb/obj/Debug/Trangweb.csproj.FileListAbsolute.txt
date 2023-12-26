@@ -1,0 +1,464 @@
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Trangweb.dll.config
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Trangweb.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Trangweb.pdb
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csc.exe
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csc.exe.config
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csc.rsp
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csi.exe
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csi.exe.config
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\csi.rsp
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.AppContext.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Collections.Immutable.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Console.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Globalization.Calendars.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Net.Http.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Net.Sockets.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.ValueTuple.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\vbc.exe
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\vbc.exe.config
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\vbc.rsp
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe.config
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\EntityFramework.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\EntityFramework.SqlServer.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Microsoft.Web.Infrastructure.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Helpers.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Mvc.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Razor.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\EntityFramework.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\EntityFramework.SqlServer.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Razor.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Helpers.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\System.Web.Mvc.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TH HQTCSDL\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.AssemblyReference.cache
+C:\TH HQTCSDL\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CoreCompileInputs.cache
+C:\TH HQTCSDL\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CopyComplete
+C:\TH HQTCSDL\Trangweb\Trangweb\obj\Debug\Trangweb.dll
+C:\TH HQTCSDL\Trangweb\Trangweb\obj\Debug\Trangweb.pdb
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Trangweb.dll.config
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Trangweb.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Trangweb.pdb
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csc.exe
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csc.exe.config
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csc.rsp
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csi.exe
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csi.exe.config
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\csi.rsp
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.AppContext.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Collections.Immutable.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Console.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Globalization.Calendars.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Net.Http.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Net.Sockets.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.ValueTuple.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\vbc.exe
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\vbc.exe.config
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\vbc.rsp
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe.config
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\EntityFramework.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\EntityFramework.SqlServer.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Web.Infrastructure.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Helpers.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Mvc.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Razor.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\EntityFramework.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\EntityFramework.SqlServer.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Razor.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Helpers.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\System.Web.Mvc.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.AssemblyReference.cache
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CoreCompileInputs.cache
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CopyComplete
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.pdb
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.GenerateResource.cache
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Newtonsoft.Json.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Owin.dll
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\bin\Newtonsoft.Json.xml
+C:\TH HQTCSDL\image\Trangweb\Trangweb\Trangweb\obj\Debug\Trangweb.IdentityMigration.init.resources
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Trangweb.dll.config
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Trangweb.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Trangweb.pdb
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csc.exe
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csc.exe.config
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csc.rsp
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csi.exe
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csi.exe.config
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\csi.rsp
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.AppContext.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Collections.Immutable.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Console.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Globalization.Calendars.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Net.Http.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Net.Sockets.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.ValueTuple.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\vbc.exe
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\vbc.exe.config
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\vbc.rsp
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\roslyn\VBCSCompiler.exe.config
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\EntityFramework.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\EntityFramework.SqlServer.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Web.Infrastructure.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Newtonsoft.Json.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Owin.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Helpers.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Mvc.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Razor.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\EntityFramework.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\EntityFramework.SqlServer.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Newtonsoft.Json.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Razor.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.Deployment.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Webpages.Razor.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Helpers.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\System.Web.Mvc.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.AssemblyReference.cache
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.IdentityMigration.init.resources
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.GenerateResource.cache
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CoreCompileInputs.cache
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.csproj.CopyComplete
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.dll
+C:\TH HQTCSDL\image\2001215634_Doan_LTWeb\Trangweb\Trangweb\obj\Debug\Trangweb.pdb
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.dll.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.pdb
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.AppContext.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Console.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.Compression.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Net.Http.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Net.Sockets.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.ValueTuple.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XPath.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\VBCSCompiler.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.SqlServer.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Newtonsoft.Json.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Helpers.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Mvc.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Razor.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Deployment.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Razor.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.SqlServer.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Newtonsoft.Json.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Razor.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Deployment.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Razor.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Helpers.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Mvc.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.AssemblyReference.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.IdentityMigration.init.resources
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.GenerateResource.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.CoreCompileInputs.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.CopyComplete
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.pdb
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.dll.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Trangweb.pdb
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csc.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\csi.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.AppContext.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Console.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.Compression.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Net.Http.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Net.Sockets.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.ValueTuple.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XPath.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\vbc.rsp
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\VBCSCompiler.exe
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.SqlServer.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Newtonsoft.Json.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Owin.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Helpers.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Mvc.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Razor.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Deployment.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Razor.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\EntityFramework.SqlServer.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Newtonsoft.Json.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Razor.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Deployment.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Webpages.Razor.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Helpers.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\System.Web.Mvc.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.AssemblyReference.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.IdentityMigration.init.resources
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.GenerateResource.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.CoreCompileInputs.cache
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.csproj.CopyComplete
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.dll
+C:\Congnghephanmem\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\2001215634_Doan_LTWeb\Trangweb\obj\Debug\Trangweb.pdb
